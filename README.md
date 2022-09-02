@@ -2,4 +2,4 @@
 First repository
 
 
-Smoking in sauna room is the best
+Smoking in the sauna room is the best.
